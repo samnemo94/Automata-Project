@@ -1,0 +1,6 @@
+c:\users\sam\documents\visual studio 2012\Projects\Postfix to e-nfa\Postfix to e-nfa\bin\Debug\Postfix to e-nfa.exe.config
+c:\users\sam\documents\visual studio 2012\Projects\Postfix to e-nfa\Postfix to e-nfa\bin\Debug\Postfix to e-nfa.exe
+c:\users\sam\documents\visual studio 2012\Projects\Postfix to e-nfa\Postfix to e-nfa\bin\Debug\Postfix to e-nfa.pdb
+c:\users\sam\documents\visual studio 2012\Projects\Postfix to e-nfa\Postfix to e-nfa\obj\Debug\Postfix to e-nfa.csprojResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2012\Projects\Postfix to e-nfa\Postfix to e-nfa\obj\Debug\Postfix to e-nfa.exe
+c:\users\sam\documents\visual studio 2012\Projects\Postfix to e-nfa\Postfix to e-nfa\obj\Debug\Postfix to e-nfa.pdb
